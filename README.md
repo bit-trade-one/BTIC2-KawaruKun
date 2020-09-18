@@ -1,98 +1,44 @@
-# -ADXXXXX-Template
+## 1000Hz動作による低遅延型インターフェース変換装置”変わる君”
 
-## ここに見出し
+壊れやすいUSBフットスイッチはもう懲り懲り。市販されている高耐久な工業用フットスイッチや楽器演奏などで使用されている滑らかなフットスイッチなどをパソコンなどで使用したいと思ったことはありませんか？
 
-![タイトル画像のURLを右のカッコに]()
+本製品は外部スイッチの一般的なインターフェースである直径3.5mmミニジャック2個を搭載し、市販の頑強な工業用フットスイッチや音楽用フットスイッチなど多様な外部スイッチ(入力装置)を最大2台まで接続し低遅延でPCでのボタン入力やマクロ発動などを行うことができるインターフェース変換装置です。
+ 
 
-「●●●●●」はほにゃららするためのなんちゃらボード。  
-この製品を使用する事でもにょもにょがぺけぺけできる。  
+コンパクトな本体を持ち単一のキー操作以外にもゲームパッド/マウス／キーボード入力を組み合わせ、複雑な動作設定をマクロ化しモールス信号のように長短のスイッチのパターンの組み合わせで実行することも可能です。
 
-<!--
-改行する場合、文末に半角スペース2個を置く
-
-リンクの貼り方
-[リンクになる文章](URL)
-exp.
-[Google](https://www.google.co.jp/)
-
-画像の貼り方
-![画像が読めない時に表示されるテキスト](画像のURL)
-exp.
-![bit-trade-one](https://bit-trade-one.co.jp/wp/wp-content/uploads/tcd-w/logo.png)
-※先頭の"!"を忘れないこと
+また作成したマクロはフラッシュメモリにより本体へ保存され設定終了後はAndroid5.0以降モデルやMacOS搭載機種など他OS上でも動作可能です。（Androidでのご利用時にはホスト変換アダプタが必要です）
 
 
-見出しの付け方
-
-# 見出し1
-
-## 見出し1-1
-
-###　見出し1-2
-
-# 見出し2
-
-"#"を増やすと下位の見出しになる
+### ハードウェアキーボードエミュレーションによりアプリケーションとの高親和性を実現
+USB複合デバイスとして認識することにより、接続したPCからは本製品はキーボード/マウス/ゲームパッドとして認識されます。キースクリプトの送出は複合デバイスのキーボード信号として処理され、USBキーボードからのキースキャンコード入力として処理されます。従来アプリケーション内でのキーバインドに問題を抱えていたソフトウェア的処理によるマクロ動作と比較し様々なアプリケーション内で高い親和性を誇ります。
 
 
--->
+### フットスイッチだけじゃない！様々なスイッチを手軽に接続、デジタルインターフェースに変換
+フットスイッチだけでなく3.5mmミニジャックで動作する特殊なポイントタッチスイッチやリボンスイッチなど市販されている様々なスイッチをユーザーの状態に合わせてデジタルインターフェースに変換し利用することができます。（6.3mmプラグの場合は別途、変換アダプタが必要です）
 
 
-<!--
-以下のURL内の"-ADXXXXX-Template"をリポジトリ名/ファイル名に変更 
-
-製品によって無い情報(ライブラリへのリンクなど)は削除すること
-
-ソフトの使い方、ライブラリの使い方などがWordなどである場合は、
-各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
--->
-
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
-
-## [マニュアルはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-## [ファームウェアはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
-
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
-
-### [ライブラリはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
-
-### [サンプルコードはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
-
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
-
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
-
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
+# [製品の詳細はこちら](https://bit-trade-one.co.jp/product/bitferrous/btic2/) 
 
 
-## 作例
-
-[BTO公式]()  
-[Twitter作例1]()  
-[Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
-
-## 雑誌掲載情報
-
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
 
 ## 製品仕様
-    【対応OS】Windows7以降
-    【サイズ】W16×D20×H5mm
-    【重量】約1g
-    【入力点数】12(デジタル)
-    【コネクタ】USBマイクロB
-    【電源】5V (USBマイクロB)
-    【使用温度】0 ～ 40℃（結露なきこと）
-    【保証期間】 1年間
-    【付属品】保証書 1部
-    【生産国】Made in Japan
+【対応OS】日本語版OS: Windows10,Windows8.1,Windows8,Windows7,Vista™搭載のDOS/Vパソコン
+以下のOS使用機種は上記のウィンドウズOSにて本体設定後、使用可能となります。
+Android5.0 以降スイッチアクセス対応（接続のためのホストケーブルが必要です）、MacOS X 10.10以降スイッチコントロール対応
+【対応機種】 USBポートを標準で持ち、パソコン本体メーカーが上記対応OS上でのUSBポートの 動作を保証している機種。(一部対応しない機種があります）NEC PC-9800、PC-9821シリーズには対応しておりません。
+設定アプリケーションソフトウェア導入のため別途インターネット環境が必要です。
+
+【対応USBインターフェース規格】 USB2.0　フルスピード
+【ボタン数】2個
+【スイッチ取り付けプラグ数】　φ3.5mmミニプラグ・ジャック×2
+【本体寸法】 W80×D30×H12mm（突起部含む）
+【重量】　約17g
+【コネクタ】USB2.0 TypeA
+【その他機能】標準ドライバにて動作。
+【電源】USBバスパワー
+【電源電圧】5.0V
+【動作環境】　温度0～45℃、湿度10～60％(結露なきこと）
+【付属品】取扱説明書1部 　保証書1部
+【生産国】Made in Japan
+【保証期間】お買い上げから1年間
