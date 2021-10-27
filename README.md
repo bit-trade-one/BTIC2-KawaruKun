@@ -18,8 +18,8 @@ USB複合デバイスとして認識することにより、接続したPCから
 フットスイッチだけでなく3.5mmミニジャックで動作する特殊なポイントタッチスイッチやリボンスイッチなど市販されている様々なスイッチをユーザーの状態に合わせてデジタルインターフェースに変換し利用することができます。（6.3mmプラグの場合は別途、変換アダプタが必要です）
 
 
-## [製品の詳細はこちら](https://bit-trade-one.co.jp/product/bitferrous/btic2/) 
-## [ソフトウェアダウンロードリンク](https://github.com/bit-trade-one/BTIC2-KawaruKun/raw/master/App/BTIC2_KawaruKun_Ver120.zip)
+### [製品の詳細はこちら](https://bit-trade-one.co.jp/product/bitferrous/btic2/) 
+### [ソフトウェアダウンロードリンク](https://github.com/bit-trade-one/BTIC2-KawaruKun/raw/master/App/BTIC2_KawaruKun_Ver120.zip)
 
 
 
