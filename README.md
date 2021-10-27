@@ -19,6 +19,7 @@ USB複合デバイスとして認識することにより、接続したPCから
 
 
 # [製品の詳細はこちら](https://bit-trade-one.co.jp/product/bitferrous/btic2/) 
+# [ソフトウェアダウンロードリンク](https://github.com/bit-trade-one/BTIC2-KawaruKun/raw/master/App/BTIC2_KawaruKun_Ver120.zip)
 
 
 
