@@ -1,7 +1,7 @@
 ## 1000Hz動作による低遅延型インターフェース変換装置”変わる君”
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2016/06/7a18cbce9b2ac8c8b39d1a1fb9987708.png" width="720px">  
   
-### [製品の詳細はこちら](https://bit-trade-one.co.jp/product/bitferrous/btic2/)  
+### [製品の詳細はこちら(BTO_HPリンク)](https://bit-trade-one.co.jp/product/bitferrous/btic2/)  
 ### [ソフトウェアダウンロードはこちら](https://github.com/bit-trade-one/BTIC2-KawaruKun/raw/master/App/BTIC2_KawaruKun_Ver120.zip) 
 ### [ファームウェアアップデート手順はこちらから](https://github.com/bit-trade-one/BTIC2-KawaruKun/tree/master/FirmWare)
 
