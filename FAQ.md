@@ -9,4 +9,4 @@
 
 ## Q.アンドロイド端末と接続するときに必要なホストケーブルとは、どのようなケーブルですか。
 
-### A.対応端末であれば、USB A-MicroB もしくは USB A-TypeCの汎用変換ケーブルをお使いください
+### A.対応端末であれば、USB A-MicroB もしくは USB A-TypeCのUSB OTG（USB On-The-Go）ケーブルをお使いください
