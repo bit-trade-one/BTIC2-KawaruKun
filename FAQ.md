@@ -63,6 +63,8 @@ https://support.google.com/accessibility/android/answer/6301490
 
 #### A.環境によってはPrtScのキープレスが取れないことがございます。
 
-PrtScキープレスを含んだサンプルマクロを配布しております。こちらを編集してPrtScのキープレスを含んだマクロを作成ください。
+PrtScキープレスを含んだサンプルマクロを配布しております。こちらを編集してPrtScのキープレスを含んだマクロを作成ください。  
+[サンプルマクロダウンロードリンク](https://github.com/bit-trade-one/BTIC2-KawaruKun/raw/master/SampleMacro/PrintScreen.mcdf)
+
 ![kawarukun](https://user-images.githubusercontent.com/85532743/173507713-baee98b4-bd8b-427f-9400-5e935d28806b.png)
 
