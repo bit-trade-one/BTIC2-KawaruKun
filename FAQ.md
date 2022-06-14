@@ -56,3 +56,13 @@ https://support.google.com/accessibility/android/answer/6301490
 #### A.何かのキーをプレスして離すというマクロをボタンに登録する必要がございます。
 例としてゲームパッドボタン1を押して離すマクロ画像を掲載します。このマクロを任意のボタンに割り当ててご使用ください。
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/01/167aedb67359065a73cc37c149c0f338.png" width="720px"> 
+
+----
+
+### Q.マクロを作成しようとしたところPrtScのキープレスが認識しませんでした。
+
+#### A.環境によってはPrtScのキープレスが取れないことがございます。
+
+PrtScキープレスを含んだサンプルマクロを配布しております。こちらを編集してPrtScのキープレスを含んだマクロを作成ください。
+![kawarukun](https://user-images.githubusercontent.com/85532743/173507713-baee98b4-bd8b-427f-9400-5e935d28806b.png)
+
