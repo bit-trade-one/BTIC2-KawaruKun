@@ -2,7 +2,7 @@
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2016/06/7a18cbce9b2ac8c8b39d1a1fb9987708.png" width="720px">  
   
 ### [製品の詳細はこちら(BTO_HPリンク)](https://bit-trade-one.co.jp/product/bitferrous/btic2/)  
-### [ソフトウェア(←クリックでダウンロード)](https://github.com/bit-trade-one/BTIC2-KawaruKun/raw/master/App/KawaruKun_Ver131.zip) 
+### [ソフトウェアをダウンロードする](https://github.com/bit-trade-one/BTIC2-KawaruKun/raw/master/App/KawaruKun_Ver131.zip) 
 ### [ファームウェアアップデート手順はこちらから](https://github.com/bit-trade-one/BTIC2-KawaruKun/tree/master/FirmWare)
 
 
