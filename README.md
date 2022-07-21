@@ -3,7 +3,7 @@
   
 ### [製品の詳細はこちら(BTO_HPリンク)](https://bit-trade-one.co.jp/product/bitferrous/btic2/)  
 ### [ソフトウェアをダウンロード](https://github.com/bit-trade-one/BTIC2-KawaruKun/raw/master/App/KawaruKun_Ver131.zip) 
-↑クリックすることにより設定ルールをダウンロードできます。展開してご使用下さい。  
+↑クリックすることにより設定ツールをダウンロードできます。展開してご使用下さい。  
 
 ```
 注意）変わる君をUSBに接続するときにSW1とSW2が押されている（LO）とブートモードが起動します。  
