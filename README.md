@@ -2,7 +2,7 @@
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2016/06/7a18cbce9b2ac8c8b39d1a1fb9987708.png" width="720px">  
   
 ### [製品の詳細はこちら(BTO_HPリンク)](https://bit-trade-one.co.jp/product/bitferrous/btic2/)  
-### [ソフトウェアダウンロードはこちら](https://github.com/bit-trade-one/BTIC2-KawaruKun/raw/master/App/BTIC2_KawaruKun_Ver120.zip) 
+### [ソフトウェアダウンロードはこちら](https://github.com/bit-trade-one/BTIC2-KawaruKun/raw/master/App/KawaruKun_Ver131.zip) 
 ### [ファームウェアアップデート手順はこちらから](https://github.com/bit-trade-one/BTIC2-KawaruKun/tree/master/FirmWare)
 
 壊れやすいUSBフットスイッチはもう懲り懲り。市販されている高耐久な工業用フットスイッチや楽器演奏などで使用されている滑らかなフットスイッチなどをパソコンなどで使用したいと思ったことはありませんか？
