@@ -13,6 +13,8 @@
 
 ### [ファームウェアアップデート手順はこちらから](https://github.com/bit-trade-one/BTIC2-KawaruKun/tree/master/FirmWare)
 
+### [設定ソフトマニュアル](https://github.com/bit-trade-one/BTIC2-KawaruKun/blob/master/BTIC2_manual_Web_C.pdf)
+
 
 
 
